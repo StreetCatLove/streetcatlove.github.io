@@ -1,0 +1,8 @@
+fixed-button-width: false # Set to true/false
+icon-position: left # Set to left/right
+buttons:
+  - category: Links
+    items:
+    - title: Street Cat Fanpage
+      url: https://streetcatlove.github.io/hellostreetcat/
+      icon: tdesign:cat # Icons are optional
