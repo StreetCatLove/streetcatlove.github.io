@@ -1,0 +1,24 @@
+- name: instagram
+  url: https://www.instagram.com/hello.street.cat
+  icon: ri:instagram-fill
+  color: '#E4405F'
+
+- name: x
+  url: https://x.com/street_cat_love
+  icon: ri:twitter-x-fill
+  color: '#1D9BF0'
+
+- name: twitch
+  url: https://www.twitch.tv/street_cat_love
+  icon: ri:twitch-fill
+  color: '#A970FF'
+
+- name: youtube
+  url: https://www.youtube.com/@Street_Cat_Love
+  icon: ri:youtube-fill
+  color: '#FF0000'
+
+- name: kofi
+  url: https://ko-fi.com/street_cat_love
+  icon: ri:cup-fill
+  color: '#FF5A16'
