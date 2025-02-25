@@ -3,6 +3,22 @@ icon-position: left # Set to left/right
 buttons:
   - category: Links
     items:
+    - title: Street Cats Live 24/7
+      url: https://www.twitch.tv/street_cat_love
+      icon: tdesign:camera # Icons are optional
+
+    - title: Street Cat Archive & Edits
+      url: https://www.youtube.com/@street_cat_love
+      icon: tdesign:film # Icons are optional
+    
     - title: Street Cat Fanpage
       url: https://streetcatlove.github.io/hellostreetcat/
       icon: tdesign:cat # Icons are optional
+
+    - title: Street Cat Kick
+      url: https://kick.com/street-cat-love
+      icon: tdesign:cat # Icons are optional
+
+    - title: Street Cat Lore
+      url: https://kick.com/street-cat-lore
+      icon: tdesign:book # Icons are optional
