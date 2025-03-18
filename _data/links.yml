@@ -22,3 +22,7 @@ buttons:
     - title: Street Cat Lore
       url: https://www.youtube.com/@Street_Cat_Lore
       icon: tdesign:book # Icons are optional
+
+    - title: Street Cat Crossing | Shorts
+      url: https://www.youtube.com/@StreetCatCrossing
+      icon: tdesign:fence # Icons are optional
