@@ -15,14 +15,14 @@ buttons:
       url: https://streetcatlove.github.io/hellostreetcat/
       icon: tdesign:cat # Icons are optional
 
-    - title: Street Cat Kick
-      url: https://kick.com/street-cat-love
-      icon: tdesign:cat # Icons are optional
-
     - title: Street Cat Lore
       url: https://www.youtube.com/@Street_Cat_Lore
       icon: tdesign:book # Icons are optional
 
-    - title: Street Cat Crossing | Shorts
+    - title: Street Cat Crossing
       url: https://www.youtube.com/@StreetCatCrossing
-      icon: tdesign:fence # Icons are optional
+      icon: tdesign:indicator # Icons are optional
+
+    - title: Street Cat Kick
+      url: https://kick.com/street-cat-love
+      icon: tdesign:radio-1 # Icons are optional
