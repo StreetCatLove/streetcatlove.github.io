@@ -19,10 +19,14 @@ buttons:
       url: https://www.youtube.com/@Street_Cat_Lore
       icon: tdesign:book # Icons are optional
 
-    - title: Street Cat Crossing
+    - title: Street Cat Crossing | Animal Crossing Themed Street Cat Shorts
       url: https://www.youtube.com/@StreetCatCrossing
       icon: tdesign:indicator # Icons are optional
 
+    - title: Little Red Kitten | Quotations from the Chairman x Street Cat Shorts
+      url: https://www.youtube.com/@LittleRedKitten
+      icon: tdesign:book # Icons are optional
+      
     - title: Street Cat Kick
       url: https://kick.com/street-cat-love
       icon: tdesign:radio-1 # Icons are optional
