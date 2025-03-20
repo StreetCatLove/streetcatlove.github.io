@@ -23,6 +23,10 @@ buttons:
       url: https://www.youtube.com/@StreetCatCrossing
       icon: tdesign:indicator # Icons are optional
 
+    - title: Street Cat Planet | Documentary Style Street Cat Shorts
+      url: https://www.youtube.com/@StreetCatPlanet
+      icon: tdesign:earth # Icons are optional
+
     - title: Little Red Kitten | Quotations from the Chairman x Street Cat Shorts
       url: https://www.youtube.com/@LittleRedKitten
       icon: tdesign:book # Icons are optional
