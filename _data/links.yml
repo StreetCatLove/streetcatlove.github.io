@@ -30,6 +30,10 @@ buttons:
     - title: Little Red Kitten | Quotations from the Chairman x Street Cat Shorts
       url: https://www.youtube.com/@LittleRedKitten
       icon: tdesign:book # Icons are optional
+
+    - title: Juche Kitten Unit | Fostering DPRK Solidarity with Street Cat Shorts
+      url: https://www.youtube.com/@DPRKitten
+      icon: tdesign:flag-4 # Icons are optional
       
     - title: Street Cat Kick
       url: https://kick.com/street-cat-love
