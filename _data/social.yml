@@ -10,7 +10,7 @@
 
 - name: bsky
   url: https://bsky.app/profile/streetcatlove.bsky.social
-  icon: ri:bsky-fill
+  icon: tdesign:cloudy-sunny
   color: '#22A11D'
 
 - name: twitch
