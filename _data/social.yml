@@ -6,12 +6,12 @@
 - name: x
   url: https://x.com/street_cat_love
   icon: ri:twitter-x-fill
-  color: '#1D9BF0'
+  color: '#FFFFFF'
 
 - name: bsky
   url: https://bsky.app/profile/streetcatlove.bsky.social
   icon: tdesign:cloudy-sunny
-  color: '#22A11D'
+  color: '#1D9BF0'
 
 - name: twitch
   url: https://www.twitch.tv/street_cat_love
