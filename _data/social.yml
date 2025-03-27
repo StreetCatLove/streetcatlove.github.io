@@ -27,3 +27,8 @@
   url: https://www.youtube.com/@Street_Cat_Lore
   icon: ri:youtube-fill
   color: '#03ABF4'
+
+- name: tiktok
+  url: https://www.tiktok.com/@streetcatlove
+  icon: ri:tiktok-fill
+  color: '#FECDEA'
