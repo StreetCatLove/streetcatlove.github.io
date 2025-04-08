@@ -11,9 +11,17 @@ buttons:
       url: https://kick.com/streetcatlove
       icon: tdesign:radio-1 # Icons are optional
 
+    - title: Street Cat Nimo | Glorp Gaming Stream
+      url: https://nimo.tv/streetcatlove
+      icon: tdesign:gamepad # Icons are optional
+
     - title: Street Cat Archive & Edits
       url: https://www.youtube.com/@street_cat_love
       icon: tdesign:film # Icons are optional
+
+    - title: Street Cat Lore | Long Form Video
+      url: https://www.youtube.com/@Street_Cat_Lore
+      icon: tdesign:book # Icons are optional
     
     - title: Street Cat Fanpage
       url: https://streetcatlove.github.io/hellostreetcat/
@@ -43,6 +51,3 @@ buttons:
       url: https://www.youtube.com/@StreetCatCommune
       icon: tdesign:rainbow # Icons are optional
 
-    - title: Street Cat Lore
-      url: https://www.youtube.com/@Street_Cat_Lore
-      icon: tdesign:book # Icons are optional
