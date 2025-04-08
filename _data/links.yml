@@ -7,6 +7,10 @@ buttons:
       url: https://www.twitch.tv/street_cat_love
       icon: tdesign:camera # Icons are optional
 
+    - title: Street Cat Kick | LIVE Politics, Music, and Co-working
+      url: https://kick.com/streetcatlove
+      icon: tdesign:radio-1 # Icons are optional
+
     - title: Street Cat Archive & Edits
       url: https://www.youtube.com/@street_cat_love
       icon: tdesign:film # Icons are optional
@@ -14,10 +18,6 @@ buttons:
     - title: Street Cat Fanpage
       url: https://streetcatlove.github.io/hellostreetcat/
       icon: tdesign:cat # Icons are optional
-
-    - title: Street Cat Lore
-      url: https://www.youtube.com/@Street_Cat_Lore
-      icon: tdesign:book # Icons are optional
 
     - title: Street Cat Crossing | Animal Crossing Themed Street Cat Shorts
       url: https://www.youtube.com/@StreetCatCrossing
@@ -34,7 +34,15 @@ buttons:
     - title: Juche Kitten Unit | Fostering DPRK Solidarity with Street Cat Shorts
       url: https://www.youtube.com/@DPRKitten
       icon: tdesign:flag-4 # Icons are optional
-      
-    - title: Street Cat Kick
-      url: https://kick.com/streetcatlove
-      icon: tdesign:radio-1 # Icons are optional
+
+    - title: Street Cat Cadre | Liberation Theory x Street Cat Shorts
+      url: https://www.youtube.com/@StreetCatCadre
+      icon: tdesign:compass # Icons are optional
+
+    - title: Street Cat Commune | Community Designed Shorts
+      url: https://www.youtube.com/@StreetCatCommune
+      icon: tdesign:rainbow # Icons are optional
+
+    - title: Street Cat Lore
+      url: https://www.youtube.com/@Street_Cat_Lore
+      icon: tdesign:book # Icons are optional
