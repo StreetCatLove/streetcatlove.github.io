@@ -5,8 +5,8 @@
 
 - name: x
   url: https://x.com/street_cat_love
-  icon: ri:twitter-x-fill
-  color: '#FFFFFF'
+  icon: ri:twitter-fill
+  color: '#53FC18'
 
 - name: bsky
   url: https://bsky.app/profile/streetcatlove.bsky.social
