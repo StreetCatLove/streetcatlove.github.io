@@ -7,11 +7,11 @@ buttons:
       url: https://www.twitch.tv/street_cat_love
       icon: tdesign:camera # Icons are optional
 
-    - title: Street Cat Radio | LIVE Glorp Transmissions
+    - title: Street Cat Kick | LIVE Glorp Transmissions
       url: https://kick.com/streetcatlove
       icon: tdesign:radio-1 # Icons are optional
 
-    - title: Street Cat Nimo | Glorp Gaming Stream
+    - title: Street Cat Nimo | LIVE Glorp Transmissions
       url: https://nimo.tv/streetcatlove
       icon: tdesign:gamepad # Icons are optional
 
