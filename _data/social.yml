@@ -13,11 +13,6 @@
   icon: tdesign:cloudy-sunny
   color: '#1D9BF0'
 
-- name: twitch
-  url: https://www.twitch.tv/street_cat_love
-  icon: ri:twitch-fill
-  color: '#A970FF'
-
 - name: youtube
   url: https://www.youtube.com/@Street_Cat_Love
   icon: ri:youtube-fill
