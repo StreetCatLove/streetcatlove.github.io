@@ -3,6 +3,10 @@ icon-position: left # Set to left/right
 buttons:
   - category: Links
     items:
+    - title: Divest From Twitch
+      url: https://streetcatlove.github.io/hellostreetcat/divest
+      icon: tdesign:chat-message # Icons are optional
+    
     - title: Street Cat Kick | LIVE Glorp Transmissions
       url: https://kick.com/streetcatlove
       icon: tdesign:radio-1 # Icons are optional
