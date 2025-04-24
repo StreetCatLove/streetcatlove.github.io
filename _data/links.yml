@@ -6,20 +6,20 @@ buttons:
     - title: Divest From Twitch
       url: https://streetcatlove.github.io/hellostreetcat/divest
       icon: tdesign:chat-message # Icons are optional
+
+    - title: Street Cat Love Youtube | Hello Street Cat Archive & Edits | 9 Feeders LIVE
+      url: https://www.youtube.com/@street_cat_love
+      icon: tdesign:film # Icons are optional
     
     - title: Street Cat Kick | LIVE Glorp Transmissions
       url: https://kick.com/streetcatlove
       icon: tdesign:radio-1 # Icons are optional
 
-    - title: Street Cat Nimo | LIVE Glorp Transmissions
+    - title: Street Cat Nimo | 9 Feeders LIVE
       url: https://nimo.tv/streetcatlove
       icon: tdesign:gamepad # Icons are optional
 
-    - title: Street Cat Archive & Edits
-      url: https://www.youtube.com/@street_cat_love
-      icon: tdesign:film # Icons are optional
-
-    - title: Street Cat Lore | Long Form Video
+    - title: Street Cat Lore | Youtube
       url: https://www.youtube.com/@Street_Cat_Lore
       icon: tdesign:book # Icons are optional
     
