@@ -23,6 +23,10 @@ buttons:
       url: https://streetcatlove.github.io/hellostreetcat/
       icon: tdesign:cat # Icons are optional
 
+    - title: Street Cat Love Photo Blog
+      url: https://streetcatlove.github.io/photo/
+      icon: tdesign:camera # Icons are optional
+
     - title: Street Cat Lore Youtube
       url: https://www.youtube.com/@Street_Cat_Lore
       icon: tdesign:book # Icons are optional
