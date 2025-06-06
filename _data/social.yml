@@ -3,10 +3,10 @@
   icon: ri:instagram-fill
   color: '#E4405F'
 
-- name: x
+- name: twitter
   url: https://x.com/street_cat_love
   icon: ri:twitter-fill
-  color: '#53FC18'
+  color: '#FFFFFF'
 
 - name: bsky
   url: https://bsky.app/profile/streetcatlove.bsky.social
@@ -18,10 +18,10 @@
   icon: ri:youtube-fill
   color: '#FF0000'
 
-- name: youtube
-  url: https://www.youtube.com/@Street_Cat_Lore
-  icon: ri:youtube-fill
-  color: '#03ABF4'
+- name: kick
+  url: https://kick.com/streetcatlove
+  icon: tdesign:letters-k
+  color: '#53FC18'
 
 - name: tiktok
   url: https://www.tiktok.com/@streetcatlove
