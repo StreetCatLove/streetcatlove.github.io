@@ -11,7 +11,7 @@ buttons:
       url: https://www.youtube.com/@street_cat_love
       icon: tdesign:film # Icons are optional
     
-    - title: Street Cat Project Directory
+    - title: Street Cat Projects Directory
       url: https://streetcatlove.github.io/proj
       icon: tdesign:folder # Icons are optional
 
