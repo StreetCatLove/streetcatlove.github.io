@@ -13,7 +13,7 @@ buttons:
     
     - title: Street Cat Project Directory
       url: https://streetcatlove.github.io/proj
-      icon: tdesign:radio-1 # Icons are optional
+      icon: tdesign:folder # Icons are optional
 
     - title: Hello Street Cat Fanpage
       url: https://streetcatlove.github.io/hellostreetcat/
