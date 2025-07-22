@@ -3,7 +3,7 @@ icon-position: left # Set to left/right
 buttons:
   - category: Links
     items:
-    - title: #Divest for Palestine
+    - title: Divest for Palestine
       url: https://streetcatlove.github.io/hellostreetcat/divest
       icon: tdesign:chat-message # Icons are optional
 
