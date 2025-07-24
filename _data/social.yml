@@ -27,3 +27,8 @@
   url: https://www.tiktok.com/@streetcatlove
   icon: ri:tiktok-fill
   color: '#FECDEA'
+
+- name: nimo
+  url: https://www.nimo.tv/streetcatlove
+  icon: tdesign:letters-n
+  color: '#A020F0'
