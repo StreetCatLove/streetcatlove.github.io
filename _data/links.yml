@@ -26,3 +26,7 @@ buttons:
     - title: Street Cat's Pet Photo Blog
       url: https://streetcatlove.github.io/photo/
       icon: tdesign:camera # Icons are optional
+
+    - title: Street Cat's Throne
+      url: https://throne.com/streetcat
+      icon: tdesign:gift # Icons are optional
