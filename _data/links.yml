@@ -10,10 +10,6 @@ buttons:
     - title: Street Cat Love Youtube | Hello Street Cat Archive & Edits | 9 Feeders LIVE
       url: https://www.youtube.com/@street_cat_love
       icon: tdesign:film # Icons are optional
-    
-    - title: All of Street Cat's Projects
-      url: https://streetcatlove.github.io/proj
-      icon: tdesign:folder # Icons are optional
 
     - title: Hello Street Cat Fanpage
       url: https://streetcatlove.github.io/hellostreetcat/
