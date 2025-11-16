@@ -18,7 +18,3 @@ buttons:
     - title: Street Cat's Recommended Outlets
       url: https://streetcatlove.github.io/recs/
       icon: tdesign:video-library # Icons are optional
-
-    - title: Street Cat's Throne
-      url: https://throne.com/streetcat
-      icon: tdesign:gift # Icons are optional
