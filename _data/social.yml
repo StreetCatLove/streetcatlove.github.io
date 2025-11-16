@@ -32,3 +32,14 @@
   url: https://www.nimo.tv/streetcatlove
   icon: tdesign:letters-n
   color: '#A020F0'
+
+- name: throne
+  url: https://throne.com/streetcat
+  icon: ri:throne-fill
+  color: '#264AFF'
+
+- name: patreon
+  url: https://www.patreon.com/c/streetcatlove
+  icon: ri:patreon-fill
+  color: '#FFFFFF'
+  
