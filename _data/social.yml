@@ -35,7 +35,7 @@
 
 - name: throne
   url: https://throne.com/streetcat
-  icon: ri:throne-fill
+  icon: ri:vip-crown-2-fill
   color: '#264AFF'
 
 - name: patreon
