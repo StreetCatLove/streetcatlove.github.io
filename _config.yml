@@ -4,7 +4,7 @@ remote_theme: digitalmalayali/linkhub-jekyll-theme
 # Site Configuration
 name: Street Cat Love  # Name of your website
 tagline: Links  # Set your preferred page title
-description: street cat archivist and restreamer for ending colonialism. street cats of all countries, unite!  # Also used as a meta description
+description: street cat content LIVE 24/7 public health advocate😷 & defense of all colonized nations 🇨🇺 🇵🇸 🇰🇵 🇸🇩 🇻🇪 🐅street cats of all countries, unite!  # Also used as a meta description
 favicon:
   path: https://raw.githubusercontent.com/StreetCatLove/hellostreetcat/refs/heads/main/favicon.ico # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
   type: ico # File format of image. Change according to your image. Supported types: https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types
