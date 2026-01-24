@@ -23,11 +23,6 @@
   icon: tdesign:letters-k
   color: '#53FC18'
 
-- name: tiktok
-  url: https://www.tiktok.com/@streetcatlove
-  icon: ri:tiktok-fill
-  color: '#FECDEA'
-
 - name: nimo
   url: https://www.nimo.tv/streetcatlove
   icon: tdesign:letters-n
