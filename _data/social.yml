@@ -37,4 +37,8 @@
   url: https://www.patreon.com/c/streetcatlove
   icon: ri:patreon-fill
   color: '#FFFFFF'
-  
+
+- name: github
+  url: https://github.com/StreetCatLove
+  icon: ri:git-repository-line
+  color: '#FFFFFF'
