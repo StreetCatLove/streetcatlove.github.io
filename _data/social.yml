@@ -42,3 +42,8 @@
   url: https://github.com/StreetCatLove
   icon: tdesign:logo-github
   color: '#FFFFFF'
+
+- name: streamplace
+  url: https://stream.place/streetcatlove.bsky.social
+  icon: ri:box-3-line
+  color: '#FFFFFF'
